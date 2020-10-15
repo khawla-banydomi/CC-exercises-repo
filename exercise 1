@@ -1,18 +1,17 @@
 I choose DVD-shopping-cart application that is presented in the following link: 
-+ https://github.com/khawla-banydomi/DVDshoppingcart.git
+ https://github.com/khawla-banydomi/DVDshoppingcart
 
 There are several points that might be taken into account regarding an application:
 
-+ Firstly: Technology Stack ( a. Programming languages b. Tools used c. Third party components)
+Firstly: Technology Stack ( a. Programming languages b. Tools used c. Third party components)
 in my application which is "online DVD shopping cart" application, I will use a.Java script, b.nodejs and angular 10
-+ secondly: Database ( a. Data model b. Data flow c. Clustering) which can be established to store the users and manage product inventory it is also used to manage 
+Secondly: Database ( a. Data model b. Data flow c. Clustering) which can be established to store the users and manage product inventory it is also used to manage 
 the cart, store the cart items, and manage the orders on an online shop it includes the following:
 user table,product table,product meta, product review table, Category Table and Product Category Table, Tag Table and Product Tag Table,
 Cart Table and Cart Item Table, Order Table and Order Item Table, Transaction Table, Address Table.
-+ Thirdly: Interfaces
-+ Fourthly: Dependencies
-+ Last but not least: NFR: (non-functional requirements):
-there are numerous NFR regarding our application: for illustration: Users must change the initially assigned login password immediately after the first successful login. Moreover, 
+Thirdly: Interfaces
+Fourthly: Dependencies
+Last but not least: NFR: (non-functional requirements): there are numerous NFR regarding the selected application: for illustration: Users must change the initially assigned login password immediately after the first successful login. Moreover, 
 the initial should never be reused.Every unsuccessful attempt by a user to access an item of data shall be recorded on an audit trail.A website should be capable 
 enough to handle 1 thousand users with affecting its performance
 The software should be portable. So moving from one OS to other OS does not create any problem.
