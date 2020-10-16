@@ -27,14 +27,25 @@ https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 
 + # TWO Factor Authentication (2FA) or two step verification
 + This can be considered as an important step to increase the security for our account so following these steps to get it:
+# 1
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-08.png)
+# 2
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-19.png)
+# 3
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-33.png)
+# 4
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-46.png)
+# 5
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-59.png)
+# 6
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-18-34.png)
+# 7
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-19-26.png)
+# 8
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-19-41.png)
+
++ It is important to mention out thatwhenever you want you can disable this process of authentication by pressing the red button.
+# 9
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-19-53.png)
 
 
