@@ -25,12 +25,28 @@
 for additional configuration you can visit this page:
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 
++ # TWO Factor Authentication (2FA) or two step verification
++ This can be considered as an important step to increase the security for our account so following these steps to get it:
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-08.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-19.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-33.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-46.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-17-59.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-18-34.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-19-26.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-19-41.png)
+![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/notebook/TFA/Screenshot%20from%202020-10-16%2017-19-53.png)
+
+
+
+
 + # This will be final edition of your main GITHUB page characteristics you can add more also by changing your address for example
 
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/screenshot/Screenshot%20from%202020-10-16%2013-17-47.png)
 
-+ # these are the whole setting that can be changed to get the prober profile
++ # These are the whole setting that can be changed to get the prober profile
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/screenshot/Screenshot%20from%202020-10-16%2013-18-31.png)
+
 
 
 + ## Creation of different repositories
