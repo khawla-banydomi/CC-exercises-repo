@@ -1,1 +1,30 @@
+#Find an example application, preferably your own, and deduce which pattern it uses. What would have to be done to evolve to a microservices type pattern? 
+
+ 
+Example Name: Control system for self- driving vehicles 
+Definition  :A control system for self- driving vehicles connects the different parts of the vehicle to a control
+module that corrects the direction of the driving, speed, and trajectory. 
+Real-World Example:1. Tesla Control Module (tesla.com) 2. Waymo software (waymo.com). 
+Advantages: Control systems for self- driving cars use a multi- layered architecture: the same system can be used if
+some parts of the car change with time, or can be used for different models of cars. Only one layer is modified. 
+
+ 
+
+It has been developed under a layered architecture, using the TeSLA framework; Tesla control module can be considered as a 
+multi-layer(N-Tier) application it consists of 5 layers as the following: 
+
+1. User interaction layer
+2. Functionality layer
+3. Business rules layer
+4. Application core layer
+5. Database layer
+
+An important key concept within the microservices architecture pattern is that it is a distributed architecture,
+meaning that all the components within the architecture are fully decoupled from one other and accessed through some sort 
+of remote access protocol like ( JMS, REST, SOAP, etc.). The distributed nature of this architecture pattern is 
+how it achieves some of its superior scalability and deployment characteristics. 
+To evolve the application, it would be necessary to separate the different entities into different microservices and 
+communicate with each other to provide a service. 
+
+ 
 
