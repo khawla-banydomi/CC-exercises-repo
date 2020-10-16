@@ -36,13 +36,14 @@ https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 + ## Creation of different repositories
 + In order to create a new repository just follow these steps:
 
-three different repositories will be created:
+
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/screenshot/Screenshot%20from%202020-10-16%2016-24-32.png)
 
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/screenshot/Screenshot%20from%202020-10-16%2016-25-02.png)
 
 + Then simply press on (Create repository)
 
++ # Three main repositories will be Added to our Profile regarding CC course:
 - [Fork from the main repository of the cloud computing course ](https://github.com/khawla-banydomi/CC-20-21)
 - [Cloud computing exercises](https://github.com/khawla-banydomi/CC-exercises-repo)
 - [Cloud computing project](https://github.com/khawla-banydomi/CC-OnlineShopping-application)
