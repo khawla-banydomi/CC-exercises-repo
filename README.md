@@ -1,2 +1,4 @@
-# exercises-khawla
-This repository contains the exercises we intend to solve related to cloud computing course
+# Description
++ This repository contains visual description of how we setup and configure github
++ Additionally, it includes the solved exercises related to cloud computing course
+
