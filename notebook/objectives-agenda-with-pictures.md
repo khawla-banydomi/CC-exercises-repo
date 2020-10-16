@@ -59,7 +59,7 @@ https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 ![](https://github.com/khawla-banydomi/CC-exercises-repo/blob/main/screenshot/Screenshot%20from%202020-10-16%2013-18-31.png)
 
 
-
++ # Repository
 + ## Creation of different repositories
 + In order to create a new repository just follow these steps:
 
