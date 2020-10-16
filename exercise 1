@@ -1,18 +1,47 @@
-I choose DVD-shopping-cart application that is presented in the following link: 
- https://github.com/khawla-banydomi/DVDshoppingcart
+Find an example application, preferably your own, and deduce which pattern it uses. What would have to be done to evolve to a microservices type pattern? 
 
-There are several points that might be taken into account regarding an application:
+ 
 
-Firstly: Technology Stack ( a. Programming languages b. Tools used c. Third party components)
-in my application which is "online DVD shopping cart" application, I will use a.Java script, b.nodejs and angular 10
-Secondly: Database ( a. Data model b. Data flow c. Clustering) which can be established to store the users and manage product inventory it is also used to manage 
-the cart, store the cart items, and manage the orders on an online shop it includes the following:
-user table,product table,product meta, product review table, Category Table and Product Category Table, Tag Table and Product Tag Table,
-Cart Table and Cart Item Table, Order Table and Order Item Table, Transaction Table, Address Table.
-Thirdly: Interfaces
-Fourthly: Dependencies
-Last but not least: NFR: (non-functional requirements): there are numerous NFR regarding the selected application: for illustration: Users must change the initially assigned login password immediately after the first successful login. Moreover, 
-the initial should never be reused.Every unsuccessful attempt by a user to access an item of data shall be recorded on an audit trail.A website should be capable 
-enough to handle 1 thousand users with affecting its performance
-The software should be portable. So moving from one OS to other OS does not create any problem.
-Privacy of information , intellectual property rights, etc. should be audited.
+Example Name  
+
+Definition  
+
+Real-World Example  
+
+Advantages 
+
+Control system for self- driving vehicles 
+
+A control system for self- driving vehicles connects the different parts of the vehicle to a control module that corrects the direction of the driving, speed, and trajectory. 
+
+Tesla Control Module (tesla.com). 
+
+Waymo software (waymo.com). 
+
+Control systems for self- driving cars use a multi- layered architecture: the same system can be used if some parts of the car change with time, or can be used for different models of cars. Only one layer is modified. 
+
+ 
+
+It has been developed under a layered architecture, using the TeSLA framework. 
+
+Tesla control module can be considered as a multi-layer(N-Tier) application it consistes of 5 layers as the following: 
+
+User interaction layer:  
+
+Functionality layer:  
+
+Business rules layer:  
+
+Application core layer:  
+
+Database layer: 
+
+ 
+
+ 
+
+An important key concept within the microservices architecture pattern is that it is a distributed architecture, meaning that all the components within the architecture are fully decoupled from one other and accessed through some sort of remote access protocol like ( JMS, REST, SOAP, etc.). The distributed nature of this architecture pattern is how it achieves some of its superior scalability and deployment characteristics. 
+
+To evolve the application, it would be necessary to separate the different entities into different microservices and communicate with each other to provide a service. 
+
+ 
