@@ -43,4 +43,4 @@ three different repositories will be created:
 
 
 # The end of the first Milestone.
-[complete-milestone-0] (https://github.com/khawla-banydomi/CC-OnlineShopping-application/milestones)
+     [Complete-milestone-0](https://github.com/khawla-banydomi/CC-OnlineShopping-application/milestones).
