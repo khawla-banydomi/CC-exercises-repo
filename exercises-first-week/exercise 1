@@ -1,17 +1,15 @@
 #Find an example application, preferably your own, and deduce which pattern it uses. What would have to be done to evolve to a microservices type pattern? 
 
  
-Example Name: Control system for self- driving vehicles 
-Definition  :A control system for self- driving vehicles connects the different parts of the vehicle to a control
-module that corrects the direction of the driving, speed, and trajectory. 
-Real-World Example:1. Tesla Control Module (tesla.com) 2. Waymo software (waymo.com). 
-Advantages: Control systems for self- driving cars use a multi- layered architecture: the same system can be used if
-some parts of the car change with time, or can be used for different models of cars. Only one layer is modified. 
+Example : Control system for self- driving vehicles : this control system can be established to deal with self- driving vehicles that connects the different parts of the vehicle to a control
+module which corrects the (steering) direction of the driving and the speend ; let us consider for example Real-World Example (Tesla Control Module ); one of the important mentioned 
+advantage for this system is that it uses a multi- layered architecture so that the same system can be used if 
+certain parts of the car change with time moreover, this module can be used for different models of cars; in another word Only one layer is modified. 
 
  
 
-It has been developed under a layered architecture, using the TeSLA framework; Tesla control module can be considered as a 
-multi-layer(N-Tier) application it consists of 5 layers as the following: 
+It has been developed under a layered architecture, using the TeSLA framework; Tesla control module can be considered as a multi-layer(N-Tier) application
+it consists of 5 layers as the following: 
 
 1. User interaction layer
 2. Functionality layer
@@ -19,12 +17,14 @@ multi-layer(N-Tier) application it consists of 5 layers as the following:
 4. Application core layer
 5. Database layer
 
-An important key concept within the microservices architecture pattern is that it is a distributed architecture,
-meaning that all the components within the architecture are fully decoupled from one other and accessed through some sort 
-of remote access protocol like ( JMS, REST, SOAP, etc.). The distributed nature of this architecture pattern is 
-how it achieves some of its superior scalability and deployment characteristics. 
-To evolve the application, it would be necessary to separate the different entities into different microservices and 
-communicate with each other to provide a service. 
++ Microservices: 
+
+One of the key concept that must be considered within the microservices architecture pattern is that microservices architecture is a distributed architecture,
+based on that all the element included within the architecture are fully disconeccted from one other ; additionally it can be accessed remotely using 
+one of the following protocols as: ( JMS, REST, SOAP, etc.);The most important feature or characteristics of this distributed nature is the (scalability and deployment)
+
+To evolve microservice into the overmentioned application, it would be importantly to separate the different entities into different microservices 
+and communicate more/less with each other by using any communivcation or invoking methods  in order to provide the services. 
 
  
 
