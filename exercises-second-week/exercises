@@ -1,1 +1,22 @@
 
+# First Exercise: Install any of the virtual environments of node.js (or any other language with which you are familiar) and, with them, install the latest version, the most current minor version of 4.x and the same for 0.11 or some odd (development).
+
+To install the virtual environment I follow the steps that mentioned in this website:[https://medium.com/@nbanzyme/easy-way-to-install-nvm-on-ubuntu-18-04-2cfb19ee5391]
+
+The first step is to install Node version manager (NVM) since it gives the user permission to install several versions of nodejs:
+
+*In my case I download v10.0.0 and v10.5.0 and use v10.0.0:
+
+
+
+1. Use the following command to download the package:
+(wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash)
+2. The last three lines will be used for configuration.
+3. Finally and for the purpose of confirm the installation simply hit ..[nvm --version]
+
+
+
+
+
+
+
